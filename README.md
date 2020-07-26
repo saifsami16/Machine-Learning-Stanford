@@ -6,4 +6,4 @@ Topics include:
 (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning).
 (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI).
 
-#Logistic Regression #Artificial Neural Network #Machine Learning (ML) Algorithms
+#Logistic Regression #Artificial Neural Network #Machine Learning (ML) Algorithms 
